@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Tanguy Bellicha!
 
 ## About Me
-Passionate developer with 8 years of experience in the world of programming. Specialized in mobile application development using Flutter and proficient in a variety of other languages and technologies. Eager to learn and contribute to exciting projects.
+Passionate developer with 8 years of experience in the world of programming. Specialized in mobile application development using Flutter and proficient in a variety of other languages and technologies. Eager to learn and contribute to exciting projects.Actually looking for internships, feel free to contact me !
 
 ## 💼 Skills
 - **Languages:** C/C++, Flutter, Python, Node.js, Windev
@@ -15,11 +15,15 @@ Passionate developer with 8 years of experience in the world of programming. Spe
 
 - **EIP Project**  
   Web and mobile app development project using Flutter, Node.js and Prsima as the ORM.
-  [EIP Project](#)
+  [EIP Project](https://github.com/H-chauvet/RISU)
+  
+- **Auto Grader**  
+  Web app using React, Node.js and Prisma as the ORM. Usage of Amazon S3 to store files.
+  [AutoGrader](https://github.com/tbellicha/AutoGrader/tree/main)
 
 - **Discord Bot - Black Jack**  
   A Discord bot for playing Black Jack game
-  [Discord Bot - Black Jack](#)
+  [Discord Bot - Black Jack]
 
 ## 🎓 Education
 - **Epitech, Nantes**  
@@ -44,4 +48,4 @@ Passionate developer with 8 years of experience in the world of programming. Spe
 - **Phone:** +33 7 67 10 81 98
 - **Location:** Basse Goulaine, France
 
-- **LinkedIn:** [Tanguy Bellicha](#)
+- **LinkedIn:** [Tanguy Bellicha](https://www.linkedin.com/in/tanguy-bellicha/)
